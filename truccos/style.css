@@ -111,7 +111,7 @@ h1{
 
 .ultimo-bloque{
     width: 1348px;
-    height: 800px;
+    height: 600px;
     margin: 1px;
     background-color: #163c4a;
 }
@@ -133,6 +133,78 @@ h1{
     padding-left: 200px;
 }
 
+.mayorista{
+    border-radius: 18px;
+    border: solid 3px #96e7ff;
+    background-color: #ffffff;
+    width: 395px;
+    height: 80px;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #163c4a;
+    position: absolute;
+    bottom: -1900px;
+    left: 480px;
+    margin: 30px;
+}
+
+#texto-mayorista{
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    top: 180px;
+    left: 20px;
+    margin: 30px;
+}
+
+.imagen-hojas-1{
+    background-image: url('hoja-4.png'); 
+    width: 425px;
+    height: 350px;
+    position: absolute;
+    top: 2462px;
+    left: 934px;  
+}
+
+.imagen-hojas-2{
+    background-image: url('hojas-1.png'); 
+    width: 360px;
+    height: 400px;
+    position: absolute;
+    top: 2350px;
+    
+}
+
+.imagen-hojas-4{
+    background-image: url('hojas-2.png'); 
+    width: 210px;
+    height: 230px;
+    position: absolute;
+    top: 2145px;
+    transform: scaleX(-1);
+}
+
+.imagen-hojas-3{
+    background-image: url('hoja-3.png'); 
+    width: 300px;
+    height: 280px;
+    position: absolute;
+    top: 2145px;
+    left: 1050px;    
+}
 
 .slider{
   width: 100%;
